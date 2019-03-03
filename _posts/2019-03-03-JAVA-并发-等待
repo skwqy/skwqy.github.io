@@ -1,1 +1,4 @@
 
+# 等待 & 唤醒
+Thread.sleep(100);
+Object.wait(100);
